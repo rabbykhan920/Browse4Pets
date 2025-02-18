@@ -4,7 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Browse4Pets</title>
-
+    <!-- favicon -->
+    <link rel="shortcut icon" type="image/jpg" href="img/logo-header.png"/>
+    <!-- favicon -->
   <!-- links -->
   <link rel="stylesheet" href="style.css">
   <script src="https://cdn.tailwindcss.com"></script>
@@ -48,13 +50,13 @@
    </style>
 
 </head>
-<body>
+<body class="font-sora">
    <!-- header start -->
-   <header class="container mx-auto">
+   <header class="">  
      <!-- navbar -->
       <nav class="font-sora bg-[#FFF9F4]">
 
-        <div class="navbar bg-base-100">
+        <div class="navbar container mx-auto">
           <div class="navbar-start">
             <div class="dropdown">
               <div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
@@ -86,7 +88,8 @@
               <li><a class="text-lg">Contact us</a></li>
             </ul>
           </div>
-          <div class="navbar-end gap-3">
+          <div class="navbar-end gap-3 lg
+          lg:flex md:hidden hidden">
             <a href="#" class="text-lg"><i class="fa-regular fa-bell"></i></a>
             <a href="#" class="text-lg"><i class="fa-solid fa-magnifying-glass"></i></a>
             <a class="btn bg-transparent hover:bg-transparent border-2 border-[#FFDC26]
@@ -97,7 +100,20 @@
         
       </nav>    
      <!-- navbar -->
-     
+     <!-- banner -->
+     <section class="lg:py-48 md:py-24 py-10 container mx-auto"  style="background-image: url(img/cat-big.png); background-repeat: no-repeat; background-position: bottom,center; background-size: cover;">
+  
+    <div class="mb-28">
+
+     <h2 class="lg:text-5xl md:text-3xl text-xl font-normal font-adlam leading-5">Pamper Your Pet, <br> Because They Deserve <br> the Bes</h2>
+
+     <p class="md:text-xl text-sm pt-4 pb-5">Discover a world of treats, toys, and essentials handpicked for <br> your furry friends. Shop now and make tails wag with joy!</p>
+  
+     <a href="#" class="btn bg-[#FFDC26] hover:bg-[#FFDC26]">Find a pet</a>   
+    </div>
+       
+    </section>
+     <!-- banner -->
   </header>
    <!-- header end -->
 
