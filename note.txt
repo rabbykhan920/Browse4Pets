@@ -1,63 +1,16 @@
-  <div class="hero">
-        <div class="hero-content flex-col lg:flex-row-reverse">
-         
-          <div>
-            <h1 class="text-5xl font-bold">Pamper Your Pet, <br> Because They Deserve <br> the Bes</h1>
-            <p class="py-6">
-              Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-              quasi. In deleniti eaque aut repudiandae et a id nisi.
-            </p>
-            <button class="btn btn-primary">Get Started</button>
-          </div>
-        </div>
-      </div>
-
-
-
-
-       <div class="flex  bg-gradient-to-r from-[#F8CCFB] to-[#ACD2FD] w-[50%]">
-       
-       <div class="p-10">
-        <p class="text-xl">Under Price</p>
-        <h3 class="text-3xl">Pet Grooming Mitt</h3>
-         <h4 class="">(Easy Hair Removal)</h4>
-         <h2 class="">$7.99</h2>
-       </div> 
-
-       <div class="">
-        <img src="img/cute-dog-mid.png" alt="img">
-       </div> 
-        
-        
-        
-      </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-       <div class="card md:card-side bg-gradient-to-r from-[#F8CCFB] to-[#ACD2FD] lg:w-[50%]">
-        
-        <div class="card-body m:mt-28 ">
-          
-          <h2 class="lg:text-xl md:text-lg font-normal">Under Price</h2>
-          <h2 class="md:text-2xl text-sm font-semibold">Pet Grooming</h2>
-          <h2 class="text-[#FFFFFF] md:text-xl text-lg">(Easy Hair Removal)</h2>
-          <h2 class="lg:text-5xl md:text-2xl text-xl font-semibold">$7.99</h2>
-         
-        </div>
-        <figure>
-          <img
-            src="img/cute-dog-mid.png"
-            alt="Movie" />
-        </figure>
-      </div>
+ <div class="bg-[#FFF] flex">
+               
+                <div class="bg-[#FFF9F4]">
+                  <img class="p-5" src="img/logo (2).png" alt="">
+                </div>
+               
+                <div class="">
+                  <div class="flex">
+                    <i class="fa-solid fa-star" style="color: #FFD43B;"></i>
+                     <p>4.5</p>
+                  </div>
+                  <h3>Pet Bed</h3>
+                  <p>$39.99</p>
+                </div>
+                
+               </div>
