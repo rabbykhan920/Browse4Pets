@@ -31,3 +31,33 @@
         
         
       </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       <div class="card md:card-side bg-gradient-to-r from-[#F8CCFB] to-[#ACD2FD] lg:w-[50%]">
+        
+        <div class="card-body m:mt-28 ">
+          
+          <h2 class="lg:text-xl md:text-lg font-normal">Under Price</h2>
+          <h2 class="md:text-2xl text-sm font-semibold">Pet Grooming</h2>
+          <h2 class="text-[#FFFFFF] md:text-xl text-lg">(Easy Hair Removal)</h2>
+          <h2 class="lg:text-5xl md:text-2xl text-xl font-semibold">$7.99</h2>
+         
+        </div>
+        <figure>
+          <img
+            src="img/cute-dog-mid.png"
+            alt="Movie" />
+        </figure>
+      </div>
