@@ -11,3 +11,23 @@
           </div>
         </div>
       </div>
+
+
+
+
+       <div class="flex  bg-gradient-to-r from-[#F8CCFB] to-[#ACD2FD] w-[50%]">
+       
+       <div class="p-10">
+        <p class="text-xl">Under Price</p>
+        <h3 class="text-3xl">Pet Grooming Mitt</h3>
+         <h4 class="">(Easy Hair Removal)</h4>
+         <h2 class="">$7.99</h2>
+       </div> 
+
+       <div class="">
+        <img src="img/cute-dog-mid.png" alt="img">
+       </div> 
+        
+        
+        
+      </div>
